@@ -1,0 +1,35 @@
+body{
+  background-color: rgba(190, 190, 190);
+}
+
+#header{
+  background-color: #656565;
+  margin: 40p;
+  padding: 20px;
+}
+
+/* h1, h2, h3, h4 {
+color: red;
+} */
+
+#main-title {
+  font-size: 60px;
+}
+
+main{
+background-color: #BEECE6;
+width: 80%;
+
+margin: 50px;
+margin: 50px 50px;
+margin: 250px 50px 50px 50px;
+
+}
+
+.links{
+  font-size: 22px;
+}
+
+#footer{
+  background-color: rgb(144, 144, 144);
+}
